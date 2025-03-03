@@ -1,2 +1,0 @@
-control.ControlLuces
-control.SistemaDomotico
